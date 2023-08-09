@@ -25,6 +25,10 @@ a {
     text-decoration: none;
 }
 
+a.website {
+    color: inherit;
+}
+
 #resume {
     margin: 0 auto;
     max-width: 600px;
